@@ -245,7 +245,7 @@ header {
 h1 {
   font-family: var(--title-fonts);
   color: var(--dark-gray);
-  margin: 0 1em;
+  margin: 0 10%;
   font-size: 3em;
 }
 
@@ -567,7 +567,11 @@ footer a {
     height: 8em;
   }
 
-  header h1 {
+  /* Testting */
+
+  /*  */
+
+  /* header h1 {
     position: absolute;
     margin-top: 5%;
     margin-left: -3%;
@@ -578,7 +582,7 @@ footer a {
     position: absolute;
     margin-top: -4%;
     margin-left: 26%;
-  }
+  } */
 
   #img-grid {
     grid-template-columns: repeat(2, 1fr);
